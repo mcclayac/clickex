@@ -16,3 +16,9 @@ hello --verbose say
 
 hello --verbose --home_directory='/Users/mcclayac' say
 
+first --name='Tony' --count=5
+
+pip install wheel
+
+#create wheel
+python setup.py bdist_wheel
