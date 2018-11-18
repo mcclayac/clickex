@@ -1,0 +1,11 @@
+
+
+pip install --editable .
+
+hello --help
+
+hello --string='Tony McClay'
+
+hello --string='Tony McClay' --repeat=3
+
+hello  --repeat=3
