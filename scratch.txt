@@ -9,3 +9,10 @@ hello --string='Tony McClay'
 hello --string='Tony McClay' --repeat=3
 
 hello  --repeat=3
+
+hello say --string='Nina' --repeat=3
+
+hello --verbose say
+
+hello --verbose --home_directory='/Users/mcclayac' say
+
