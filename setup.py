@@ -11,5 +11,6 @@ setup(
     entry_points='''
         [console_scripts]
         hello=hello:cli
+        first=clickmc.first:hello
     '''
 )
